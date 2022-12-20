@@ -1,4 +1,4 @@
-# Meu progresso de estudos na programção
+# Meu progresso de estudos na programação
 
 ### Linguagens 
 - HTML (Concluído)
