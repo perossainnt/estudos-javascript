@@ -1,3 +1,3 @@
 # Evolução no JavaScript
 
-Repositórios de práticas e exercícios JavaScript
+Consolidando meus aprendizados com práticas e exercicíos para um conhecimento mais aprofundado em JavaScript.
